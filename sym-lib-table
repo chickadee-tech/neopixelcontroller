@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name additional-74xx)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/components/additional-74xx.lib)(options "")(descr ""))
+  (lib (name PLUG)(type Legacy)(uri ${KIPRJMOD}/kicad-libs/components/PLUG.lib)(options "")(descr ""))
+)
